@@ -1,0 +1,5 @@
+{
+  "name": "AI Future Face Generator",
+  "description": "An application that uses AI to predict and generate a photo of what a child might look like in their 20s based on an uploaded photo and selected gender.",
+  "requestFramePermissions": []
+}
